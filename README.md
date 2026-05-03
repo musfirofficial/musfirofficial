@@ -8,7 +8,7 @@ Working on!!!
 
 ###
 
-<p align="left">🔭 I’m a syudent from UCSC.<br>- 📚 I'm currently learning AI and ML<br>- ⚡ In my free time I used to play games. 🎮</p>
+<p align="left">🔭 I’m a syudent from UCSC.<br> 📚 I'm currently learning AI and ML<br> ⚡ In my free time I used to play games. 🎮</p>
 
 ###
 
