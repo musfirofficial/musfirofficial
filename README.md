@@ -12,7 +12,11 @@
 
 ###
 
-<h3 align="center">🔭 I’m a syudent from UCSC.<br>📚 I'm currently learning AI and ML<br>⚡ In my free time I used to play games. 🎮</h3>
+<h3 align="center">
+🔭 Software Enginner student at UCSC.<br>
+📚 Focused on Artificial Intelligence and Machine Learning.<br>
+⚡ Interested in gaming and interactive technologies in my spare time.
+</h3>
 
 ###
 
