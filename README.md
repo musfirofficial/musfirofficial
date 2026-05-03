@@ -51,14 +51,9 @@ Working on!!!
 
 ###
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
-
-###
-
-
-
-###
-
 <div align="center">
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
+
+###
+
