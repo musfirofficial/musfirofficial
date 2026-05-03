@@ -15,7 +15,7 @@ jobs:
       - name: Generate pacman graph
         uses: maurodesouza/profile-readme-stats@v1
         with:
-          username: YOUR_GITHUB_USERNAME
+          username: musfirofficial
 
       - name: Push generated files
         run: |
