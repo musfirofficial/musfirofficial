@@ -21,6 +21,8 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           config_timezone: Asia/Kolkata
+          plugin_stars: yes
+          plugin_stars_limit: 3
 
       # COLUMN 2: Isometric 3D Calendar Only (Super Fast)
       - name: Generate Right Side Metrics
