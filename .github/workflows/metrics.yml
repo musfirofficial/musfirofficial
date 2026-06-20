@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-left.svg
-          user: YOUR_GITHUB_USERNAME_HERE
+          user: musfirofficial
           base: header, repositories
           plugin_languages: yes
           plugin_languages_sections: most-used
@@ -28,7 +28,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics-right.svg
-          user: YOUR_GITHUB_USERNAME_HERE
+          user: musfirofficial
           base: "" 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
