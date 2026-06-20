@@ -1,16 +1,13 @@
-## Hi there 👋
-
-<!--
-**musfirofficial/musfirofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td width="50%" valign="top">
+      <img src="metrics-left.svg" width="100%" alt="Languages and Overview" />
+    </td>
+    
+    <!-- RIGHT COLUMN -->
+    <td width="50%" valign="top">
+      <img src="metrics-right.svg" width="100%" alt="Coding Habits and Calendar" />
+    </td>
+  </tr>
+</table>
