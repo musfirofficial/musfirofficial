@@ -24,14 +24,10 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_order: base.header, introduction, base.activity, base.community, base.repositories, languages, repositories, stars, followup, people, isocalendar, base.metadata
 
-          # Custom Spacing & Full-Width Follow-up Bars
+          # Full-Width Follow-up Bars
           extras_css: |
-            section {
-              margin-top: 14px !important;
-              margin-bottom: 14px !important;
-            }
             .followup,
-            .followup > .row,
+            .followup .row,
             .followup .column,
             .followup .field {
               width: 100% !important;
