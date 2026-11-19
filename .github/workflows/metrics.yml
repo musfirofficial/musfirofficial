@@ -27,7 +27,7 @@ jobs:
 
           # Layout & Sizing (Medium overall, full-year calendar centered at bottom)
           template: classic
-          config_display: medium
+          config_display: large
           config_timezone: Asia/Colombo
           base: header, activity, community, repositories, metadata
           config_order: base.header, introduction, base.activity, base.community, base.repositories, languages, repositories, stars, followup, people, isocalendar, base.metadata
