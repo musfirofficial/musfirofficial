@@ -1,1 +1,2 @@
 ![GitHub Metrics](./github-metrics.svg)
+[![My Skills](https://skillicons.dev/icons?i=arch,aws,azure,bash,css,django,docker,elasticsearch,express,fastapi,figma,firebase,flask,gcp,git,html,ai,js,linux,lua,md,mongodb,mysql,neovim,nextjs,nodejs,notion,npm,obsidian,ps,postgres,postman,powershell,prisma,py,react,redis,regex,replit,sqlite,supabase,tailwind,tensorflow,ts,vercel,vite,vscode&perline=25)](https://skillicons.dev)
