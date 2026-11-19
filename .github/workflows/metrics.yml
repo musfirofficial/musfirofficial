@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Layout & Sizing (Medium overall, full-year calendar centered at bottom)
+          # Layout & Sizing
           template: classic
           config_display: large
           config_timezone: Asia/Colombo
@@ -25,15 +25,17 @@ jobs:
           config_order: base.header, introduction, base.activity, base.community, base.repositories, languages, repositories, stars, followup, people, isocalendar, base.metadata
 
           # Custom Spacing & Full-Width Follow-up Bars
-          extras_features: yes
           extras_css: |
             section {
-              margin-top: 14px;
-              margin-bottom: 14px;
+              margin-top: 14px !important;
+              margin-bottom: 14px !important;
             }
-            .followup.column,
+            .followup,
+            .followup > .row,
+            .followup .column,
             .followup .field {
-              width: 100%;
+              width: 100% !important;
+              max-width: 100% !important;
             }
 
           # Follow-up & Introduction
